@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Секреты
+.env
+
+# Служебные файлы подготовки (не для сдачи)
+od2506.txt
+tz.txt
+zb.html
+od2506.pdf
+
+# Данные генерируются скриптом
+data/transactions.csv
